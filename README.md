@@ -7,7 +7,7 @@
 4. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
-6. [Licence] (#licence)
+6. [Licence](#licence)
 
 ### General Info
 ***
